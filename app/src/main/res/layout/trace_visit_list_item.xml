@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="7dp"
+    android:paddingBottom="7dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|left"
+        android:textSize="17dp"
+        android:paddingLeft="10dp"
+        android:id="@+id/visit_course_name"
+        android:text="- 어쩌고 저쩌고"
+        android:textColor="#000"/>
+
+</LinearLayout>

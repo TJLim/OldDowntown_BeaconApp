@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course">
+        <item>A 코스</item>
+        <item>B 코스</item>
+        <item>C 코스</item>
+    </string-array>
+</resources>

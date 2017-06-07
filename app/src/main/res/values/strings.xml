@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">제주 원도심</string>
+    <string name="course_tour">코스투어</string>
+    <string name="theme_tour">테마투어</string>
+    <string name="my_trace">나의 발자취</string>
+    <string name="zoom_in">확대 화면</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="blueTooth">블루투스 설정</string>
+    <string name="beaconPush">비콘 푸쉬 알람</string>
+</resources>

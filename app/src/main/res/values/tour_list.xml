@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tourList">
+        <item>코스투어</item>
+        <item>테마투어</item>
+
+    </string-array>
+</resources>
